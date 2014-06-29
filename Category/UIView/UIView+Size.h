@@ -1,5 +1,5 @@
 //
-//  UIView+Utility.h
+//  UIView+Size.h
 //  ObjectiveC Extensions
 //
 //  Created by Igor Anany on 6/01/14.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface UIView (Utility)
+@interface UIView (Size)
 
 - (float)height;
 - (float)width;
@@ -21,6 +21,5 @@
 - (void)setX:(float)x Y:(float)y;
 - (void)centerHorizontally:(UIView*)subview;
 - (void)centerVertically:(UIView*)subview;
-- (void)drawLineFromPoint:(CGPoint)from toPoint:(CGPoint)to withLineWidth:(float)width andColor:(UIColor*)color;
 
 @end

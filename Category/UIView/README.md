@@ -1,4 +1,5 @@
-# UIView+Utility
+# UIView Extentions
+## UIView+Size
 
 This category extends the UIView and any UIView subclass (which is basically any UI element) with the following methods:
 
@@ -41,7 +42,7 @@ This category extends the UIView and any UIView subclass (which is basically any
 ```
 
 
-## Usage
+### Usage
 
 To use the category just include it to your project:
 ```
@@ -68,3 +69,5 @@ _button.x = 20.f; // to set view origin x
                withLineWidth:1.0f
                     andColor:[UIColor redColor]];
 ```
+
+## UIView+Draw
