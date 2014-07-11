@@ -1,9 +1,11 @@
 //
-//  TLSpringFlowLayout.m
-//  UICollectionView-Spring-Demo
+//  SGSpringFlowLayout.m
+//  7 glyphs Ltd.
+//	http://7glyphs.com
 //
-//  Created by Ash Furrow on 2013-07-31.
-//  Copyright (c) 2013 Teehan+Lax. All rights reserved.
+//  Created by Igor Anany on 24/12/13.
+//  Copyright (c) 2014 7 glyphs Ltd. All rights reserved.
+//
 //
 
 #import "SGSpringFlowLayout.h"
